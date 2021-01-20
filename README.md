@@ -5,7 +5,7 @@ Using NLP techniques to process text from companies quarterly results.
 Magistritöös uuritakse, kas tekstikaeve tehnikate rakendamine vähemstruktureeritumate
 ettevõtete aruannetele on mõistlik meetod börsil noteeritud ettevõtete keskkonna-,
 sotsiaal- ja ühingujuhtimisega(ESG) seotud tegevuste/näidikute hindamiseks.
-#Alam-uurimisküsimused:
+## Alam-uurimisküsimused:
 - Millised võtmesõnad on aruandes, mis toetavad ESG?
 - Kui efektiivne on börsi ettevõtete aruannete slaidiesitluste analüüs kasutades
 tekstikaevet?
