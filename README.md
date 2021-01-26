@@ -1,5 +1,15 @@
 # NLP
 
+# Mis on tehtud?
+- Laen alla data vastavalt veebilehelt kahe parameetri järgi(ISIN ja kuupäev) kasutades veebikraapimist
+- Muudan PDFid .txt failideks
+- Moodustan dataframe ja lisan teksti sisse
+- Puhastan teksti
+- Moodustan document-term-maatriksi ja näen sõnasagedusi.
+- top 15 sõna tekstides
+- millised on unikaalsed sõnad ja kui palju neid on.
+
+Kõike on võimalik ka koodina näha failides: 1-Data-Scraping-&-Cleaning.ipynb ja 2-Exploratory-Data-Analysis.ipynb
 # Uurimisküsimused: mida me tahame teada?
 Magistritöös uuritakse, kas tekstikaeve tehnikate rakendamine vähemstruktureeritumate
 ettevõtete aruannetele on mõistlik meetod börsil noteeritud ettevõtete keskkonna-,
