@@ -7,6 +7,7 @@ Kõike on võimalik ka koodina näha failides: 1-Data-Scraping-&-Cleaning.ipynb
 - Moodustan dataframe ja lisan dataframe teksti sisse(tekstifailide tekst)
 - Puhastan teksti(2 meetodit on sellejaoks)
 - Moodustan document-term-maatriksi ja näen sõnasagedusi.
+- picklen ehk salvestan .pkl formaadis andmed, et saaks edaspidi kiiremini kätte
 
 Kõike on võimalik ka koodina näha failides: 2-Exploratory-Data-Analysis.ipynb
 
