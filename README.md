@@ -1,15 +1,21 @@
 # NLP
 
 # Mis on tehtud?
-- Laen alla data vastavalt veebilehelt kahe parameetri järgi(ISIN ja kuupäev) kasutades veebikraapimist
-- Muudan PDFid .txt failideks
-- Moodustan dataframe ja lisan teksti sisse
-- Puhastan teksti
+Kõike on võimalik ka koodina näha failides: 1-Data-Scraping-&-Cleaning.ipynb
+- Laen alla data vastavalt Nasdaqi veebilehelt kahe parameetri järgi(ISIN ja kuupäev) kasutades veebikraapimist(võib olla ükskõik milline börsifirma)
+- Muudan PDFid .txt failideks lokaalselt
+- Moodustan dataframe ja lisan dataframe teksti sisse(tekstifailide tekst)
+- Puhastan teksti(2 meetodit on sellejaoks)
 - Moodustan document-term-maatriksi ja näen sõnasagedusi.
+- picklen ehk salvestan .pkl formaadis andmed, et saaks edaspidi kiiremini kätte
+
+Kõike on võimalik ka koodina näha failides: 2-Exploratory-Data-Analysis.ipynb
+
 - top 15 sõna tekstides
 - millised on unikaalsed sõnad ja kui palju neid on.
+- Defineerisin ESG sõnad ära (nt G ehk government iseloomustavad sõnad G =['advocacy', 'bribery', 'compensation', 'competitive', 'corruption', 'divestment', 'fraud', 'gri', 'independent', 'justice', 'stability', 'stewardship', 'transparency']
 
-Kõike on võimalik ka koodina näha failides: 1-Data-Scraping-&-Cleaning.ipynb ja 2-Exploratory-Data-Analysis.ipynb
+
 # Uurimisküsimused: mida me tahame teada?
 Magistritöös uuritakse, kas tekstikaeve tehnikate rakendamine vähemstruktureeritumate
 ettevõtete aruannetele on mõistlik meetod börsil noteeritud ettevõtete keskkonna-,
