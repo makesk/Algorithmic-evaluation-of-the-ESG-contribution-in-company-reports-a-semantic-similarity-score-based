@@ -22,12 +22,12 @@ Kõike on võimalik ka koodina näha failides: 3-Topic-Modelling.ipynb
 
 Kõike on võimalik ka koodina näha failides: 4-TF-IDF.ipynb
 
--Importisin Stanfordi ülikooli poolt tehtud glove mudeli, mis sisaldab sõnu vektoresituses ja nad on semantilises sarnasuses omavahel(sõnade vaheline kaugus)
--Koosinuse põhjal arvutasin välja kõikide vektoride sarnasused. Kahe vektori sarnasus on siis üks punkt kahe vektori vahel(arvutus käib koosinuse nurga põhjal.
--Eelprotsessisin dokumendid(börsitekst) ja minu ESG sõnad
--puhastasin
--tokeniseerisin
--Ehitasin TF-IDF mudeli, mis arvutab sarnasusskoorid antud tekstidele ja etteantud ESG sõnadele ning väljastab ka kõige sarnasemad sõnad
+- Importisin Stanfordi ülikooli poolt tehtud glove mudeli, mis sisaldab sõnu vektoresituses ja nad on semantilises sarnasuses omavahel(sõnade vaheline kaugus)
+- Koosinuse põhjal arvutasin välja kõikide vektoride sarnasused. Kahe vektori sarnasus on siis üks punkt kahe vektori vahel(arvutus käib koosinuse nurga põhjal.
+- Eelprotsessisin dokumendid(börsitekst) ja minu ESG sõnad
+-  puhastasin
+-  tokeniseerisin
+- Ehitasin TF-IDF mudeli, mis arvutab sarnasusskoorid antud tekstidele ja etteantud ESG sõnadele ning väljastab ka kõige sarnasemad sõnad
 
 # Uurimisküsimused: mida me tahame teada?
 Magistritöös uuritakse, kas tekstikaeve tehnikate rakendamine vähemstruktureeritumate
