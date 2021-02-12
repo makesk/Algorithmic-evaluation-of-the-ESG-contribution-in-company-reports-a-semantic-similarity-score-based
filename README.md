@@ -15,6 +15,17 @@ Kõike on võimalik ka koodina näha failides: 2-Exploratory-Data-Analysis.ipynb
 - millised on unikaalsed sõnad ja kui palju neid on.
 - Defineerisin ESG sõnad ära (nt G ehk government iseloomustavad sõnad G =['advocacy', 'bribery', 'compensation', 'competitive', 'corruption', 'divestment', 'fraud', 'gri', 'independent', 'justice', 'stability', 'stewardship', 'transparency']
 
+Kõike on võimalik ka koodina näha failides: 3-Topic-Modelling.ipynb
+
+- LDA mudeli kasutamine ja topicu modelleerimine
+- sõnade elimineerimine ja proovimine LDA mudeli tuunimist - 2 topicuga, 3 topicuga.
+
+Kõike on võimalik ka koodina näha failides: 4-TF-IDF.ipynb
+
+- Importisin Stanfordi ülikooli poolt tehtud glove sõnadepaketti vektorid
+- Arvutasin välja sõnade sarnasused
+- Eelprotsessisin dokumendid(börsitekst) ja minu ESG sõnad
+- Ehitasin TF-IDF mudeli, mis arvutab sarnasusskoorid antud tekstidele ja etteantud ESG sõnadele ning väljastab ka kõige sarnasemad sõnad
 
 # Uurimisküsimused: mida me tahame teada?
 Magistritöös uuritakse, kas tekstikaeve tehnikate rakendamine vähemstruktureeritumate
